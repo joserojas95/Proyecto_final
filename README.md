@@ -18,4 +18,6 @@ Dataframe y Variables:
 
 Código y dashboard
 -   Proyecto final ( Power BI): visualización de los datos. En las primeras pestañas aparece información general de cada municipio, todas ellas con interactivas y en la última pestaña tienes el modelo de buscador para encontrar el ubicación óptima. 
--   Proyecto Final (Python): limpieza y manipulación de datos para pasar a SQL y relacionar las tablas. 
+-   Limpieza de datos (Empresa, Parados, Censado): limpieza y manipulación de datos.
+-   Scrapeo y limpieza de datos (Precio) : scrapeo y limpeza de datos, dataframe precios. 
+-   Conectar SQL y exportar: conectar los dataframe a sql y exportar fichelos limpios a la terminal. 
